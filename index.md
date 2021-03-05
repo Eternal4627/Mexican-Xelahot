@@ -17,7 +17,7 @@
 <div class="container">
 	<div class="card">
 		<div class="card-body">
-			<a class="btn btn-sm btn-primary" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://https://Mexican-Xelahot.io/">Add to Cydia</a>
+			<a class="btn btn-sm btn-primary" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://Mexican-Xelahot.io/">Add to Cydia</a>
 		</div>
 	</div>
 
